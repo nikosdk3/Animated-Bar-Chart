@@ -17,7 +17,7 @@ Looks similar to this youtube video:
 - Run `make build_tests run_tests`
 
 ### Data Files
-There are many data files that can be represented visually with this application. They have been organized in the table below:
+There are many data files that can be represented visually with this application. Some have been organized in the table below:
 
 | Input File | Description | Time Period | Data Source |
 | :---: | :---: | :---: | :---: |
