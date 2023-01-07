@@ -2,7 +2,7 @@
 Application which creates an animated bar chart to visualize how data changes over periods of time.
 
 Looks similar to this youtube video:
-(youtube.com/watch?v=qQXXI5QFUfw)
+<youtube.com/watch?v=qQXXI5QFUfw>
 
 ## Usage
 
